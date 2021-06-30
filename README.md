@@ -25,7 +25,7 @@ LikeCoin предоставляет специальные SDK/ плагины, 
 * \*\*\*\*[**Twitter**](https://twitter.com/likecoin) : Объявления
 * \*\*\*\*[**Matters**](https://matters.news/tags/VGFnOjgwOTQ) [**\#讚賞公民共和國**](https://matters.news/tags/VGFnOjgwOTQ) : Управление, обновления по развитию, продукты; на китайском языке
 * \*\*\*\*[**GitHub**](https://github.com/likecoin) : ****Open Source
-* **Facebook**：[Страница](https://www.facebook.com/Liker.Land/) \( Announcement \); [Группа](https://www.facebook.com/groups/likecoin) \( Публикации от создателей контента \); на китайском языке
+* **Facebook**：[Страница](https://www.facebook.com/Liker.Land/) \( Объявления \); [Группа](https://www.facebook.com/groups/likecoin) \( Публикации от создателей контента \); на китайском языке
 * [**Reddit**](https://www.reddit.com/r/LikeCoin/)：🆕 
 
 ## Связь с нами
