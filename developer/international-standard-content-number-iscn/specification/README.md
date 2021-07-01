@@ -1,8 +1,8 @@
 ---
-description: Being drafted
+Описание: В разработке
 ---
 
-# Specification
+# Спецификация
 
-Please refer to [https://github.com/likecoin/iscn-specs](https://github.com/likecoin/iscn-specs)
+Представлена по ссылке [https://github.com/likecoin/iscn-specs](https://github.com/likecoin/iscn-specs)
 
