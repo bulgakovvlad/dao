@@ -1,8 +1,8 @@
-# What is the relationship between ISCN and IPFS?
+# Какова связь между ISCN и IPFS??
 
-The InterPlanetary File System \(IPFS\) is a decentralized file system protocol for storing and sharing data in a peer-to-peer network.  The IPFS hash of the content can serve as the content fingerprint in an ISCN record.  IPFS provides a lower-layer protocol foundation.
+Межпланетная файловая система \(IPFS\) представляет собой протокол децентрализованной файловой системы для хранения и обмена данными в одноранговой сети. Хэш IPFS содержимого может служить цифровым отпечатком содержимого в записи ISCN. IPFS обеспечивает основу протокола более низкого уровня.
 
-ISCN registers the important content metadata such as author, publication date, licenses terms, versions, and content fingerprint.   It is perfect matched with decentralized file systems like IPFS so that users can search for content indexed by ISCN in a decentralized network more efficiently.  ISCN is also a solution to manage versioning and licensing.
+ISCN регистрирует важные метаданные контента, такие как автор, дата публикации, условия лицензий, версии и отпечаток пальца контента. Он идеально сочетается с децентрализованными файловыми системами, такими как IPFS, чтобы пользователи могли более эффективно искать контент, индексируемый ISCN, в децентрализованной сети. ISCN также является решением для управления версиями и лицензированием.
 
-The content fingerprint is not necessary an IPFS hash, however, but can be any content address such as an Arweave content ID or even a popular web URL. An ISCN record can  even not filling with any content fingerprint but with other metadata only.
+Однако отпечаток содержимого не обязательно является хэшем IPFS, он может быть любым адресом контента, таким как идентификатор в Arweave или веб-URL. Запись ISCN может даже не заполняться каким-либо содержимым, а лишь другими метаданными.
 
