@@ -1,6 +1,6 @@
-# Table of contents
+# Содержание
 
-* [LikeCoin - Decentralized Publishing](README.md)
+* [LikeCoin - Децентрализованные публикации](README.md)
 * [LikeCoin FAQ](faq.md)
 * [Community Calls](community-call.md)
 
