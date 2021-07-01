@@ -1,14 +1,14 @@
 ---
-description: Frequently Asked Questions
+Описание: Часто задаваемые вопросы
 ---
 
 # LikeCoin FAQ
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LL4mdaVjNgL6A1--PV0%2F-MHGKCas6shf9dDCwB3j%2F-MHGMnmjM4yyGSTVqz7T%2FLikeCoin_AD27_Small_Update-01.png?alt=media&token=a3cb3c10-3742-4ef9-b99a-3e05e2f82a11)
 
-## [​LikeCoin - Decentralized Publishing](./) <a id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
+## [​LikeCoin - Децентрализованные публикации](./) <a id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
 
-* [What is Decentralized Publishing \#DePub?](./)
+* [Что такое децентрализованные публикации \#DePub?](./)
 * [What is ISCN?](developer/international-standard-content-number-iscn/)
 * [What is the relationship between ISCN and IPFS?](guides/decentralized-publishing/iscn-ipfs-relationship.md)
 * [Why the decentralization nature of ISCN is good to content ecosystem?](guides/decentralized-publishing/benefits.md)
@@ -18,7 +18,8 @@ description: Frequently Asked Questions
 * [Does ISCN support content stored on IPFS only?](guides/decentralized-publishing/iscn-ipfs-relationship.md)
 * [What type of content is supported by ISCN?](guides/decentralized-publishing/content-type.md)
 
-## [LikeCoin Overview](guides/about/) <a id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
+## [LikeCoin Overview
+](guides/about/) <a id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
 
 * ​[What is LikeCoin?](./)
 * [What is the usage of LikeCoin token?](guides/likecoin-token.md)
@@ -32,7 +33,8 @@ description: Frequently Asked Questions
 ## [Wallet](guides/wallet/) <a id="wo-shi-du-zhe"></a>
 
 * [How to transfer LikeCoin?](guides/wallet/like-pay.md)
-* [Is there a decentralized wallet for LikeCoin?  ](guides/wallet/keplr.md)
+* [Is there a decentralized wallet for LikeCoin?
+  ](guides/wallet/keplr.md)
 * [Does LikeCoin support hardware wallets?](guides/wallet/hardware-wallet.md)
 * [Any block explorer for LikeCoin?](guides/wallet/big-dipper.md)
 * [Is there a transaction fee?](guides/wallet/transaction-fee.md)
@@ -79,7 +81,8 @@ description: Frequently Asked Questions
 * [I don't know how to self-host, are there any third party blogging platforms supporting LikeCoin?](user-guide/creator/blogging-platforms/)
 * [How can people sponsor me?](user-guide/creatortools/sponsor-link.md)
 * [How to attract more sponsors?](user-guide/creatortools/creators-pitch.md)
-* [Portfolio Page helps to display all of my works? How to use it?  ](user-guide/creatortools/portfolio-page.md)
+* [Portfolio Page helps to display all of my works? How to use it?
+  ](user-guide/creatortools/portfolio-page.md)
 * [How to check my daily and weekly rewards?](user-guide/creatortools/rewards/)
 * [How to check the number of Civic Likers that support me?](user-guide/creatortools/support.md)
 * [How to check my monthly achievement?](user-guide/creatortools/monthly-report.md)
@@ -87,7 +90,8 @@ description: Frequently Asked Questions
 ## [​Civic Liker​](user-guide/civic-liker/) <a id="civic-liker"></a>
 
 * [Why should I become a Civic Liker? Any benefits?](user-guide/civic-liker/)
-* [How to be a Civic Liker?  ](user-guide/civic-liker/be-a-civic-liker.md)
+* [How to be a Civic Liker?
+  ](user-guide/civic-liker/be-a-civic-liker.md)
 * [How to change credit card information?](user-guide/civic-liker/change-credit-card.md)
 * [How to unsubscribe Civic Liker?](user-guide/civic-liker/unsubscribe-civic-liker.md)
 
