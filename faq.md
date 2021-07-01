@@ -9,8 +9,8 @@
 ## [​LikeCoin - Децентрализованные публикации](./) <a id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
 
 * [Что такое децентрализованные публикации \#DePub?](./)
-* [What is ISCN?](developer/international-standard-content-number-iscn/)
-* [What is the relationship between ISCN and IPFS?](guides/decentralized-publishing/iscn-ipfs-relationship.md)
+* [Что такое ISCN?](developer/international-standard-content-number-iscn/)
+* [Какова связь между ISCN и IPFS?](guides/decentralized-publishing/iscn-ipfs-relationship.md)
 * [Why the decentralization nature of ISCN is good to content ecosystem?](guides/decentralized-publishing/benefits.md)
 * [Any cost for registering ISCN?](guides/decentralized-publishing/what-is-iscn.md)
 * [Is ISCN record permanent?](guides/decentralized-publishing/benefits.md)
