@@ -11,7 +11,7 @@
 * [Что такое децентрализованные публикации \#DePub?](./)
 * [Что такое ISCN?](developer/international-standard-content-number-iscn/)
 * [Какова связь между ISCN и IPFS?](guides/decentralized-publishing/iscn-ipfs-relationship.md)
-* [Why the decentralization nature of ISCN is good to content ecosystem?](guides/decentralized-publishing/benefits.md)
+* [Почему децентрализация ISCN полезна для экосистемы контента?](guides/decentralized-publishing/benefits.md)
 * [Any cost for registering ISCN?](guides/decentralized-publishing/what-is-iscn.md)
 * [Is ISCN record permanent?](guides/decentralized-publishing/benefits.md)
 * [What will happen if the content is updated? Does ISCN support versioning?](guides/decentralized-publishing/what-is-iscn.md)
