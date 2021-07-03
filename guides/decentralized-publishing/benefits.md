@@ -1,11 +1,10 @@
-# What's the point of decentralization to the content ecosystem?
+# Почему нужна децентрализация экосистемы контента?
 
-Decentralized Publishing has the follow features so that the content will be perpetuated and distributed on the internet:
+Децентрализованная публикация имеет следующие функции в области хранения и распространения в Интернете:
 
-* The data is stored in an open and immutable blockchain, modification of any kind will leave a record, everyone can check it on the block explorer Big Dipper.
-* The nodes constructing the blockchain are operated in a decentralized way. They are managed by different community members with different backgrounds and their nodes are distributed all over the world. Even if part of the nodes are forced to shut down, the chain will still operate and the content will not vanish.
-* The code of the infrastructure is open source, anyone can copy them and fork the project.
-* No censorship.  Anyone can publish anything to the public network.
+* Данные хранятся в открытом и неизменяемом блокчейне, модификация любого рода оставит запись, каждый может проверить ее в обозревателе блоков Big Dipper.
+* Ноды, поддерживающие работу блокчейна, управляются децентрализованным способом. Ими управляют разные члены сообщества с разным опытом работы, а их ноды распределены по всему миру. Даже если часть нод отключится, сеть все равно будет работать, и ее содержимое не исчезнет.
+* Исходный код инфраструктуры открыт, любой может скопировать его и форкнуть проект.
+* Никакой цензуры. Любой желающий может опубликовать что угодно в общедоступной сети.
 
-Storing content in a decentralized infrastructure is more sustainable than relying on centralized parties like companies, organizations or governments.  The ISCN record can be maintained by at least one operating node.
-
+Хранение контента в децентрализованной инфраструктуре более устойчиво, чем использование централизованных решений, таких как компании, организации или правительства. Запись ISCN может поддерживаться по крайней мере одний активной нодой.
