@@ -1,4 +1,4 @@
-# What type of content is supported by ISCN?
+# Какой тип контента поддерживается ISCN?
 
-ISCN defines "content metadata" field which let the user to construct their own data format.  It supports any kind of content format including but not limited to articles, photos, videos, music, etc. However, we encourage users to follow the public standard of [schema.org](http://schema.org/) for content metadata.
+ISCN определяет поле "метаданные контента", которое позволяет пользователю создавать свой собственный формат данных. Он поддерживает любой формат контента, включая, но не ограничиваясь статьями, фотографиями, видео, музыкой и т.д. Тем не менее, мы призываем пользователей придерживаться общепринятого стандарта [schema.org](http://schema.org/) для метаданных контента.
 
