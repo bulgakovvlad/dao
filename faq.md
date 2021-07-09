@@ -14,7 +14,7 @@
 * [Почему децентрализация ISCN полезна для экосистемы контента?](guides/decentralized-publishing/benefits.md)
 * [Сколько стоит регистрация ISCN??](guides/decentralized-publishing/what-is-iscn.md)
 * [Является ли запись ISCN неизменяемой?](guides/decentralized-publishing/benefits.md)
-* [What will happen if the content is updated? Does ISCN support versioning?](guides/decentralized-publishing/what-is-iscn.md)
+* [Что произойдет, если контент будет обновлен? Поддерживает ли ISCN управление версиями?](guides/decentralized-publishing/what-is-iscn.md)
 * [Does ISCN support content stored on IPFS only?](guides/decentralized-publishing/iscn-ipfs-relationship.md)
 * [What type of content is supported by ISCN?](guides/decentralized-publishing/content-type.md)
 
