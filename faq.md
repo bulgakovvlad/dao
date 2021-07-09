@@ -22,7 +22,7 @@
 ](guides/about/) <a id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
 
 * ​[What is LikeCoin?](./)
-* [What is the usage of LikeCoin token?](guides/likecoin-token.md)
+* [Каково применение токена LikeCoin?](guides/likecoin-token.md)
 * What are the operation statistics?
 * [What are the updates on LikeCoin?](guides/about/updates/)
 * [What does the media say about LikeCoin?](guides/about/on-the-news/)
