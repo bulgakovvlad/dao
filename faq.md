@@ -16,7 +16,7 @@
 * [Является ли запись ISCN неизменяемой?](guides/decentralized-publishing/benefits.md)
 * [Что произойдет, если контент будет обновлен? Поддерживает ли ISCN управление версиями?](guides/decentralized-publishing/what-is-iscn.md)
 * [ISCN поддерживает только контент, хранящийся в IPFS?](guides/decentralized-publishing/iscn-ipfs-relationship.md)
-* [What type of content is supported by ISCN?](guides/decentralized-publishing/content-type.md)
+* [Какой тип контента поддерживается ISCN?](guides/decentralized-publishing/content-type.md)
 
 ## [LikeCoin Overview
 ](guides/about/) <a id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
