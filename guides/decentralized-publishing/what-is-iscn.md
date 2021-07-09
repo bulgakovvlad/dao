@@ -1,10 +1,10 @@
-# What is ISCN
+# Что такое ISCN
 
-ISCN \([International Standard Content Number](https://iscn.io/)\) is the unique metadata record of a piece of content registered on LikeCoin chain. 
+ISCN \([International Standard Content Number](https://iscn.io/)\) это уникальная запись метаданных части контента, зарегистрированного в блокчейне LikeCoin.
 
-The use case of ISCN is like the ISBN \(International Standard Book Number\) when a book is being published.   The process of publishing content to LikeCoin chain is more or less the same: a unique ISCN is generated for each piece of content and bears corresponding metadata such as authors, publication date, copyright licenses and the digital fingerprint. ISCN data are immutable because of blockchain's characteristics.
+Использование ISCN похоже на ISBN \(International Standard Book Number\) когда выходит книга. Процесс публикации контента в блокчейне LikeCoin более или менее одинаков: для каждого фрагмента контента создается уникальный ISCN, который содержит соответствующие метаданные, такие как авторы, дата публикации, лицензии на авторские права и отпечаток. Данные ISCN неизменны из-за характеристик блокчейна.
 
-ISCN data structure supports content versioning, each ISCN record will connect to it's previous version.
+Структура данных ISCN поддерживает управление версиями контента, при которой каждая запись ISCN подключается к предыдущей версии.
 
-Register ISCN costs LikeCoin. it is the for the GAS fee and the cost for the application service provider.
+Регистрация ISCN оплачивается в LikeCoin. Она включает комиссию за газ и услуги поставщика.
 
