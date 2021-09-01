@@ -18,8 +18,7 @@
 * [ISCN поддерживает только контент, хранящийся в IPFS?](guides/decentralized-publishing/iscn-ipfs-relationship.md)
 * [Какой тип контента поддерживается ISCN?](guides/decentralized-publishing/content-type.md)
 
-## [LikeCoin Overview
-](guides/about/) <a id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
+## [LikeCoin Overview](guides/about/) <a id="likecoin-zan-shang-gong-min-gong-he-guo"></a>
 
 * ​[What is LikeCoin?](./)
 * [Каково применение токена LikeCoin?](guides/likecoin-token.md)
